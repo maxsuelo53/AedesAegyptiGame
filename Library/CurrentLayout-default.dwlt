@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 405
     width: 207
     height: 202
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 104, y: 122}
+  m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -216,7 +216,7 @@ MonoBehaviour:
   m_MinSize: {x: 685, y: 616}
   m_MaxSize: {x: 14006, y: 18066}
   vertical: 0
-  controlID: 160
+  controlID: 156
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -353,7 +353,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -40838
+  m_LastSelectedObjectID: 12282
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -385,7 +385,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ba60ffff5865ffff5c6affff8471ffff3277ffff3e78ffff9878ffffc278ffff2079ffff3a93ffff58a3ffff1ccaffff1cf8ffff74fbffff6833000082330000a2330000363c00003042000096450000bc4a00002a4b0000
+      m_ExpandedIDs: 6afaffff94faffff74fbffffe2330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -545,10 +545,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -435.80197
-    m_HBaseRangeMax: 435.80197
-    m_VBaseRangeMin: -245.2277
-    m_VBaseRangeMax: 245.2277
+    m_HBaseRangeMin: -458.5
+    m_HBaseRangeMax: 458.5
+    m_VBaseRangeMin: -258
+    m_VBaseRangeMax: 258
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -584,7 +584,7 @@ MonoBehaviour:
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 964.76044, y: 618.625}
+  m_LastWindowPixelSize: {x: 917, y: 588}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -747,20 +747,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/audio/AS_Music_For_Puzzle_Games_FREE
+    - Assets/Sprites
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/audio/AS_Music_For_Puzzle_Games_FREE
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: G:\UNITY\2d\AedesAegypti
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1e4e0000
-    m_LastClickedID: 19998
-    m_ExpandedIDs: 00000000bc2d00000c4e000000ca9a3bffffff7f
+    m_SelectedIDs: 022f0000
+    m_LastClickedID: 12034
+    m_ExpandedIDs: 00000000bc2d00009630000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

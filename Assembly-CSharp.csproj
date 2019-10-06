@@ -70,29 +70,24 @@
     <Compile Include="Assets\Script\mosquitociando.cs" />
     <Compile Include="Assets\Script\ponto.cs" />
     <Compile Include="Assets\textfinal.cs" />
+    <None Include="Assets\font credits.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
@@ -102,6 +97,12 @@
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>

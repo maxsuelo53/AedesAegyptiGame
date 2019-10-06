@@ -70,7 +70,7 @@
     <Compile Include="Assets\Script\mosquitociando.cs" />
     <Compile Include="Assets\Script\ponto.cs" />
     <Compile Include="Assets\textfinal.cs" />
-    <None Include="Assets\font credits.txt" />
+    <None Include="Assets\fonts\font credits.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>G:/UNITY/2d/AedesAegypti/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

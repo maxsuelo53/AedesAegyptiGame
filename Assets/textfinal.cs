@@ -10,7 +10,6 @@ public class textfinal : MonoBehaviour
     void Start()
     {
         textofinal.text = ponto.pontos.ToString();
-
     }
 
     // Update is called once per frame

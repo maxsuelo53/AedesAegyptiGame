@@ -17,7 +17,8 @@ public class jogador : MonoBehaviour
     private bool escolha = true;
     public GameObject baldePrefab;
     private Vector3 posicaobalde;
-    private float tempojogo;
+    public float tempojogo;
+    public static float tempojogoFrase;
     public Text tempodojogo;
     
     // Start is called before the first frame update
@@ -45,9 +46,10 @@ public class jogador : MonoBehaviour
 
         tempojogo += Time.deltaTime;
         tempodojogo.text = tempojogo.ToString();
-
+        
         if (tempojogo > 300.0)
         {
+            tempojogoFrase = tempojogo;
             SceneManager.LoadScene("fimjogo");
         }
 
